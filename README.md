@@ -1,1 +1,1 @@
-# buddy_project
+# buddy_project_assosiate
